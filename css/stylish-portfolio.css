@@ -259,3 +259,11 @@ footer {
 .portfolio-description-header{
     color:rgb(200, 200, 200);
 }
+@media(max-width:768px) {
+    .portfolio-img{
+        padding-bottom:15px;
+        border-right:none;
+        border-bottom:3px solid rgb(150, 150, 150);
+        height:auto;
+    }
+}
