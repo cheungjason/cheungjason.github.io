@@ -239,3 +239,23 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+
+
+
+/*My Edits*/
+
+.portfolio-img{
+    height:500px;
+    overflow: hidden;
+    border-right:3px solid rgb(150, 150, 150);
+}
+.portfolio-img img{
+    width:100%;
+}
+.portfolio-description{
+    padding-top:15px;
+    font-weight:700;
+}
+.portfolio-description-header{
+    color:rgb(200, 200, 200);
+}
